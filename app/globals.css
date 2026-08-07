@@ -720,4 +720,4 @@ td b { color: var(--navy); }
 /* Admin finances */
 .admin-finance-grid { display: grid; grid-template-columns: 1.25fr .75fr; gap: 18px; margin-bottom: 18px; }
 .revenue-chart { height: 250px; display: grid; grid-template-columns: repeat(6,1fr); align-items: end; gap: 12px; padding: 12px 23px 20px; }
-.revenue-chart > div { height: 100
+.revenue-chart > div { height: 100%; }
