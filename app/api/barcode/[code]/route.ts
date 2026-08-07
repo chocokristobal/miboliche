@@ -1,4 +1,4 @@
-import { inferCategory } from "../../../lib/categories";
+import { inferCategory } from "@/lib/categories";
 
 type OpenProduct = {
   product_name?: string;
